@@ -1,60 +1,58 @@
-<p align="center"><img width="70%"  height="auto" src="https://cdn2.vectorstock.com/i/1000x1000/47/61/web-developer-design-vector-6584761.jpg" height="30%"/></p>
-<h1 align="center">Hey , I'm Akanksha Bairagi</h1>
-<h3 align="center">Aspiring DSA Intern with a passion for solving complex problems through efficient algorithms and data structures.</h3>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/akanksha-bairagi-714290230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/imhttps://www.linkedin.com/in/akanksha-bairagi-714290230/ages/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" height="30" width="40" /></a>
+<h1>Hi 👋, I'm Akanksha Bairagi</h1>
 
-</p>
+"🚀 Aspiring Full Stack Web Developer weaving digital wonders with interactive UIs and a touch of creativity. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
+ 
+## 🚀 Quick Overview 🚀
+- 👨‍💻 I'm from Indore, Madhya Pradesh.
+- 👨‍💻 Aspiring Full-stack Web Developer
+- 🌐 Web Enthusiast
+- 📚 Constant Learner
+- 🚀 Problem solver
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=intriguedsayan&label=Profile%20views&color=0e75b6&style=flat" alt="intriguedsayan" /> </p>
+- 👨‍💻 All of my projects are available at [https://github.com/KishanKumar08?tab=repositories](https://github.com/KishanKumar08?tab=repositories)
 
-<p style="display:flex;  align-items: center; justify-content="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intriguedsayan" alt="intriguedsayan" /></a></p>
-
-- 🔭 I’m currently working on **Full stack project with real backend.**
-
-- 🌱 I’m currently learning **MongoDB**
-- <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
-
-- 👨‍💻 All of my projects are available at [https://intriguedsayan.github.io/](https://intriguedsayan.github.io/)
-
-- 💬 Ask me about **Javascript, React, NodeJS, MongoDB, Express, Data Structures & Algorithm.**
-
-- 📫 How to reach me **sayan.mid590@gmail.com**
+- 📫 Reach out to me on **bairagiakanksha55@gmail.com**
 
 
-<h2 align="left">Languages and Tools:  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"> </h2>
+<h1>🌐 Socials</h1>
+<p align="left">
+<a href="https://github.com/KishanKumar08" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/kishan-kumar08/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/itz_kishan_141/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 
-<p> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="65" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="65" height="35"/>
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt="nodejs-logo" width='40'/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="50" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
- </p>
+## Skills
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0082C9?style=flat)
 
-<br/><br/>
-<p display="flex" align="center" align-items="center" justify-content="center">
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=intriguedsayan&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="intriguedsayan" /></a>
-
-<a href="https://github.com/IntriguedSayan?tab=repositories">
-<img width="400" height="auto" align="center"  alt="Sayan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=intriguedsayan&show_icons=true&theme=highcontrast&count_private=true" />
-  </a>
-  </p>
+## Tools
+- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Replit](https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
+<h1 align="left">📊 GitHub Stats</h1>
 
+![KishanKumar08's Stats](https://github-readme-stats.vercel.app/api?username=KishanKumar08&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![KishanKumar08's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KishanKumar08&theme=vue-dark&hide_border=false)
+![KishanKumar08's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishanKumar08&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intriguedsayan&theme=highcontrast" alt="intriguedsayan" /></p>
-<a href="#"><img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" /></a>
+## 📫 Get in Touch
+
+Feel free to connect with me on:
+
+- [LinkedIn](https://www.linkedin.com/in/kishan-kumar08/) 📎
+
+## 🤝 Let's Collaborate
+
+I'm always open to collaboration and new projects. If you have an exciting opportunity or just want to chat, drop me a message!
+
+Happy coding! 🚀

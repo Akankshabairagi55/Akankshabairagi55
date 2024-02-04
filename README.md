@@ -1,4 +1,4 @@
-<p align="center"><img width="100%"  height="auto" src="https://github.com/devvrat29/devvrat29/assets/146213827/89cfe24c-b443-4533-a55a-f52303efb0f7" height="50%"/></p>
+<p align="center"><img width="100%"  height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTNzTTmfjgLVXyONxaN37zRyrwNlu2ItPqs-QpNfaPYUD3YUivW4iN72USC9DupfSFMY&usqp=CAU" height="50%"/></p>
 <h1 align="center">Hi 👋, I'm Akanksha Bairagi</h1>
 <h3 align="center">Just a self-motivated man with a dream to become a software developer with passion and with knowledge of both front-end and backend web development and specialization in MERN stack from India.</h3>
 <h3 align="center">Connect with me:</h3>

@@ -1,4 +1,4 @@
-<p align="center"><img width="100%"  height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522web%2Bdevelopment%2522&psig=AOvVaw3BpJD-xYlZ3yem6-OXWA39&ust=1707148253413000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNi6vr6FkoQDFQAAAAAdAAAAABAE" height="50%"/></p>
+<p align="center"><img width="100%"  height="auto" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fweb-development-coding-programming-internet-260nw-1141706672.jpg&tbnid=j7dARnil0Ihm3M&vet=10CAoQxiAoAWoXChMIuKLe-IWShAMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fweb-development&docid=WMU_OKkhVBSbyM&w=458&h=280&itg=1&q=image%20for%20web%20development&ved=0CAoQxiAoAWoXChMIuKLe-IWShAMVAAAAAB0AAAAAEAc" height="50%"/></p>
 <h1 align="center">Hi 👋, I'm Akanksha Bairagi</h1>
 <h3 align="center">Just a self-motivated man with a dream to become a software developer with passion and with knowledge of both front-end and backend web development and specialization in MERN stack from India.</h3>
 <h3 align="center">Connect with me:</h3>

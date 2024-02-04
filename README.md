@@ -49,7 +49,7 @@
 
 Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/kishan-kumar08/) 📎
+- [LinkedIn](https://www.linkedin.com/in/akanksha-bairagi-714290230/) 📎
 
 ## 🤝 Let's Collaborate
 

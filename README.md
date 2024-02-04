@@ -3,8 +3,8 @@
 <h3 align="center">Aspiring DSA Intern with a passion for solving complex problems through efficient algorithms and data structures.</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@sayan.mid590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sayan.mid590" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/imhttps://www.linkedin.com/in/akanksha-bairagi-714290230/ages/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" height="30" width="40" /></a>
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intriguedsayan&label=Profile%20views&color=0e75b6&style=flat" alt="intriguedsayan" /> </p>

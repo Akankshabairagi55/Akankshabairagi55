@@ -1,9 +1,9 @@
 <p align="center"><img width="70%"  height="auto" src="https://cdn2.vectorstock.com/i/1000x1000/47/61/web-developer-design-vector-6584761.jpg" height="30%"/></p>
-<h1 align="center">Hi 👋, I'm Akanksha Bairagi</h1>
-<h3 align="center">Just a self-motivated man with a dream to become a software developer with passion and with knowledge of both front-end and backend web development and specialization in MERN stack from India.</h3>
+<h1 align="center">Hey , I'm Akanksha Bairagi</h1>
+<h3 align="center">Aspiring DSA Intern with a passion for solving complex problems through efficient algorithms and data structures.</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akanksha-bairagi-714290230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@sayan.mid590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sayan.mid590" height="30" width="40" /></a>
 </p>
 

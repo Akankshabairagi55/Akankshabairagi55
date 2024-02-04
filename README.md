@@ -9,20 +9,20 @@
 - 📚 Constant Learner
 - 🚀 Problem solver
 
-- 👨‍💻 All of my projects are available at [https://github.com/KishanKumar08?tab=repositories](https://github.com/KishanKumar08?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Akankshabairagi55?tab=repositories](https://github.com/Akankshabairagi55?tab=repositories)
 
 - 📫 Reach out to me on **bairagiakanksha55@gmail.com**
 
 
 <h1>🌐 Socials</h1>
 <p align="left">
-<a href="https://github.com/KishanKumar08" target="_blank">
+<a href="https://github.com/Akankshabairagi55" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/kishan-kumar08/" target="_blank">
+<a href="https://www.linkedin.com/in/akanksha-bairagi-714290230/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/itz_kishan_141/" target="_blank">
+<a href="https://www.instagram.com/akanksha__bairagi/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
@@ -41,9 +41,9 @@
 
 <h1 align="left">📊 GitHub Stats</h1>
 
-![KishanKumar08's Stats](https://github-readme-stats.vercel.app/api?username=KishanKumar08&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![KishanKumar08's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KishanKumar08&theme=vue-dark&hide_border=false)
-![KishanKumar08's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KishanKumar08&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![Akankshabairagi55's Stats](https://github-readme-stats.vercel.app/api?username=Akankshabairagi55&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Akankshabairagi55's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akankshabairagi55&theme=vue-dark&hide_border=true)
+![Akankshabairagi55's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akankshabairagi55&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Get in Touch
 

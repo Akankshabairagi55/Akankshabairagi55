@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring DSA Intern with a passion for solving complex problems through efficient algorithms and data structures.</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/akanksha-bairagi-714290230/" target="blank"><img align="center" 
+<a href="https://www.linkedin.com/in/akanksha-bairagi-714290230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 <a href="https://medium.com/https://medium.com/@sayan.mid590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sayan.mid590" height="30" width="40" /></a>
 </p>
 
